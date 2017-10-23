@@ -1,4 +1,4 @@
-# Setup
+### Setup
 
 * yarn install
 
@@ -6,7 +6,7 @@ or
 
 * npm install
 
-# Run
+### Run
 
 * yarn start
 
@@ -15,4 +15,4 @@ or
 * npm start
 
 
-## Use Expo IDE to test on Android and iOS
+> Use Expo IDE to test on Android and iOS
